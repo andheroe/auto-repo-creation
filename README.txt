@@ -21,7 +21,7 @@ git config --global user.name "Your Name"
 git clone [url of your Github repository]
 (example: git clone https://github.com/mygithubusername/auto-repo-creation.git)
 
--Within the mysite directory, open the config.py file and change the PY_ANYWHERE_USERNAME to your pythonanywhere username.
+-Within the auto-repo-creation directory, open the config.py file and change the PY_ANYWHERE_USERNAME to your pythonanywhere username.
 
 -In the Bash console, run the following command:
 
